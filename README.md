@@ -1,0 +1,1 @@
+# webstorm-monorepo-hoisted-packages-bug
